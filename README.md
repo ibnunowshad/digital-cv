@@ -2,7 +2,7 @@
 
 _Infrastructure and security engineer based in Bengaluru (atpresent) 🇮🇳_<br>
 
-[Email](mailto:cv@ibn.slmail.me) / [Website](https://ibnunowshad.com/) / [LinkedIn](https://linkedin.com/in/ibnunowshad/) / [GitHub](https://github.com/ibnunowshad/) / [Telegram](https://t.me/ibnunowshad/) / [Keybase](https://keybase.io/ibnunowshad/)
+[Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Keybase](https://keybase.io/ibnunowshad/)
 
 ## 👩🏼‍💻 Engineering Experience
 
