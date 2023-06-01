@@ -1,8 +1,8 @@
 # Ibrahim Nowshad
 
-_Infrastructure and security engineer based in Bengaluru (atpresent) 🇮🇳_<br>
+_Infrastructure and security engineer based in Bengaluru 🇮🇳_<br>
 
-[Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Keybase](https://keybase.io/ibnunowshad/)
+[Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
 ## 👩🏼‍💻 Engineering Experience
 
@@ -22,3 +22,14 @@ South East Asia’s e‐tailer acquired by [Alibaba Group](https://www.alibabagr
   - Maintained compliance for 12K+ Lazada endpoints, including BYOD, with Data Loss Protection (DLP) and Endpoint Detection and Response (EDR).
   - **_Technologies used:_** Gitlab, Jira, Confluence, SQL.
 <br><br>
+
+**Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
+Alibaba Cloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
+  - Built Alicloud's Data Hall with 6MW power and 25K+ server slots in Singapore and India.
+  - Delivered USD7M budgeted cabling projects, cabinet expansion, and network deliveries with stringent work schedules during multiple change freezes.
+  - Increased network deployment speed from 100 to 200 switches per day without additional resources using effective rack design proposals during the design stage.
+  - **_Technologies used:_** Scrum, Gantt, HVAC, Schneider, Jira, Gitlab.
+  - **_Selected partners closely I worked with:_**
+    - [Equinix Singapore is the most network-dense data center provider in Southeast Asia and offers access to many of the international and regional networks connecting the region, including one of the world’s 3 GRX peering points](https://www.equinix.sg/)
+    - [The foundation of a smarter, more sustainable digital future](https://www.sttelemediagdc.com/)
+    <br><br>
