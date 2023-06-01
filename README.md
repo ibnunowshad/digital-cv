@@ -1,6 +1,6 @@
 # Ibrahim Nowshad
 
-_Infrastructure and security engineer based in Bengaluru 🇮🇳_<br>
+_Taiwan Employment Gold Card and Infrastructure & Security Engineer based at Bengaluru 🇮🇳_<br>
 
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
