@@ -1,1 +1,4 @@
 _site
+.github
+CNAME
+_config.yml
