@@ -8,10 +8,11 @@ _Taiwan Employment Gold Card and Infrastructure & Security Engineer based at Ben
 
 **Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Present)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment and bicycles
-  - Stablizing, architecting and expanding IT Infrastructure of cult.sport from the house of cure.fit
-  - Writing code in multiple architecture layers, including the application core and integrations with external services
-  - Implementing a new Wazuh SIEM solutions for security postures for cure.fit
-  - **_Technologies used:_** Bind9, Wazuh, Proxmox, Palo Alto, Cisco.
+- Successfully stabilized, architected, and expanded the IT infrastructure of cult.sport, a prominent brand under the umbrella of cure.fit.
+- Developed code across multiple architecture layers, including the application core and seamless integrations with external services.
+- Spearheaded the implementation of a cutting-edge Wazuh SIEM solution to enhance the security posture of cure.fit.
+- Leveraged advanced technologies such as Bind9, Wazuh, Proxmox, Palo Alto, and Cisco to deliver robust and secure IT solutions for the organization.
+- **_Technologies used:_** Git, Bind9, Wazuh, Proxmox, Palo Alto, Cisco.
 <br><br>
 
 **Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
