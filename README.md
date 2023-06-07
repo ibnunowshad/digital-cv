@@ -12,16 +12,17 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 - Developed code across multiple architecture layers, including the application core and seamless integrations with external services.
 - Spearheaded the implementation of a cutting-edge Wazuh SIEM solution to enhance the security posture of cure.fit.
 - Leveraged advanced technologies such as Bind9, Wazuh, Proxmox, Palo Alto, and Cisco to deliver robust and secure IT solutions for the organization.
-- **_Technologies used:_** Git, Bind9, Wazuh, Proxmox, Palo Alto, Cisco.
+- **_Technologies used:_** Git, Bind9, Wazuh, Nessus, Puppet, Proxmox, Palo Alto, Cisco.
 <br><br>
 
 **Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer acquired by [Alibaba Group](https://www.alibabagroup.com)
-  - Built rapport with C-Level executives, pitched ideas, and drove changes to redesign IT infrastructure in Redmart fulfillment, ensuring uninterrupted deliveries during technical outages.
-  - Collaborated with Alibaba Product team to influence product strategy and roadmap, providing actionable feedback to improve UX on internal tools.
-  - Broke down business problems, prioritized, and built solutions for technical challenges and initiatives.
-  - Maintained compliance for 12K+ Lazada endpoints, including BYOD, with Data Loss Protection (DLP) and Endpoint Detection and Response (EDR).
-  - **_Technologies used:_** Gitlab, Jira, Confluence, SQL.
+- Established strong relationships with C-Level executives, effectively pitching ideas and driving changes to redesign the IT infrastructure in Redmart fulfillment. Ensured uninterrupted deliveries even during technical outages.
+- Collaborated closely with the Alibaba Product team, influencing product strategy and roadmap, and providing valuable feedback to enhance the user experience (UX) of internal tools.
+- Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives.
+- Successfully maintained compliance for over 12,000 Lazada endpoints, including BYOD (Bring Your Own Device), by implementing Data Loss Protection (DLP) and Endpoint Detection and Response (EDR) measures.
+- Proficiently utilized technologies such as Git, Jira, Confluence, and SQL to streamline workflows, improve collaboration, and enhance productivity throughout the projects.
+  - **_Technologies used:_** Git, Jira, Confluence, SQL.
 <br><br>
 
 **Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
