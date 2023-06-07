@@ -37,3 +37,13 @@ Alibaba Cloud provides reliable and secure cloud computing and data processing c
   - [Equinix Singapore is the most network-dense data center provider in Southeast Asia and offers access to many of the international and regional networks connecting the region, including one of the world’s 3 GRX peering points](https://www.equinix.sg/)
   - [The foundation of a smarter, more sustainable digital future](https://www.sttelemediagdc.com/)
 <br><br>
+
+**Lead Network Engineer** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
+Regional news aggregator in India through mobile app dailyhunt
+- Successfully improved the bandwidth threshold of network traffic in Grafana and Cacti, resulting in a remarkable 99% accuracy for horizontal scaling.
+- Significantly reduced traffic offloading from 80% to 40% through collaboration with Content Delivery Partners and Full-Stack Developers. Implemented clean code principles to optimize performance and achieve this notable reduction.
+- Streamlined network changes by integrating Git version control, enabling faster implementation of network modifications. This enhancement increased efficiency for planned maintenance in the cloud from 65% to an impressive 95%.
+- Led an agile team of 4 Reliability Engineers, fostering a collaborative environment and identifying their individual career growth areas. Guided the team to excel in CI/CD (Continuous Integration/Continuous Deployment) principles, empowering them to deliver high-quality results.
+- Proficiently utilized a range of technologies, including Git, Jira, Confluence, Brocade, Cisco, Openstack, Citrix, and Cacti, to effectively manage and enhance network operations, demonstrating adaptability and expertise in multiple tech stacks.
+- **_Technologies used:_** Git, Jira, Confluence, Brocade, Cisco, Openstack, Citrix, Cacti.
+<br><br>
