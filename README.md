@@ -61,11 +61,11 @@ Fashion e‐tailer of India, acquired by Flipkart and Walmart
 ## 🎓 Education
 
 **B.Tech in Information Technology, First Class** <br>
-[Anna University](https://www.annauniv.edu/) - Chennai, India _(2007 - 2010) <br>
+[Anna University](https://www.annauniv.edu/) - Chennai, India _(2007 - 2010)_ <br>
 Couse Work: _Analysis of Password Login Phishing-Based Protocols for Security Improvements_ or 2FA Auth with JSP and MSSQL. This project was based on IEEE 2009 and published in the International Conference on Emerging Technologies. [Link to the paper](https://ieeexplore.ieee.org/document/5353144)
 
 **Diploma in Information Technology, First Class (Honors)** <br>
-State Board of Technical Education - Chennai, India _(2004 - 2007) <br>
+State Board of Technical Education - Chennai, India _(2004 - 2007)_ <br>
 Course Work: 'Information about my Institution' - Basic HTML and MSSQL website with student registration online
 
 ## 📚 Certifications
