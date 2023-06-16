@@ -75,9 +75,6 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 (Cybrary) Manage a Network Infrastructure <br>
 (Rackspace) CloudU Rackspace Certified <br>
 VMware Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-Microsoft Certified Professional, Specialist <br>
-Microsoft Certified Solutions Associate <br>
-Microsoft Certified IT Professional <br>
-Microsoft Certified Technology Specialist
+Microsoft Certified IT Professional, Technology Specialist, Solution Associate
 
 
