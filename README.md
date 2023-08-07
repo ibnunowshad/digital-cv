@@ -1,12 +1,12 @@
 # Ibrahim Nowshad
 
-_Taiwan Employment Gold Card and Infrastructure & Security Engineer based at Bengaluru 🇮🇳_<br>
+_Taiwan Employment Gold Card and Infrastructure, Site Reliability & Security Engineer based at Bengaluru 🇮🇳_<br>
 
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Present)_ <br>
+**Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
 - Successfully stabilized, architected, and expanded the IT infrastructure of cult.sport, a prominent brand under the umbrella of cure.fit.
 - Developed code across multiple architecture layers, including the application core and seamless integrations with external services.
