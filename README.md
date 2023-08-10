@@ -46,9 +46,13 @@ Regional news aggregator in India through a mobile app called Dailyhunt
 
 **Lead Network Engineer** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
 Fashion e‐tailer of India, acquired by Flipkart and Walmart
-- Hired a team of 8 System/Network Engineers to build in-house capabilities to manage and monitor thousands of Myntra nodes.
-- Coached inventory of network equipment to minimize product surplus, increased up-time to 99.99%.
-- Designed platform architecture to ensure reliability, performance, and security.
+- Built and led a high‐performing team of 8 System/Network Engineers, strategically developed in‐house capabilities to effectively manage and monitor thousands of Myntra nodes. Result: Streamlined operations and improved overall efficiency.
+- Successfully coached and optimized the inventory of network equipment, effectively minimizing product surplus and enhancing resource allocation. As a result, achieved an impressive up‐time rate of 99.99%, ensuring uninterrupted service delivery.
+- Architected a robust platform infrastructure that prioritized reliability, performance, and security. By implementing cutting‐edge design principles, strengthened the foundation of the system, enabling seamless operations, enhanced user experience, and fortified data protection.
+- Enhanced quality control within Network Engineering team by 2% every month preventive maintenance by Network and Security audits.
+- Designed operational practices to ensure reliability and respond effectively to production incidents.
+- Worked together with technical management to define the roadmap and resourcing plans for core platform.
+-  **_Technologies used:_** Jira, Confluence, Git, Slack, Ruckus, Fortinet, Extreme Networks, VMWare, Shell.
 <br><br>
 
 ## 🚀 Other Positions Held
