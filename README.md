@@ -15,24 +15,21 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 <br><br>
 
 **Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
-South East Asia’s e‐tailer acquired by [Alibaba Group](https://www.alibabagroup.com)
+South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Established strong relationships with C-Level executives, effectively pitching ideas and driving changes to redesign the IT infrastructure in Redmart fulfillment. Ensured uninterrupted deliveries even during technical outages.
 - Collaborated closely with the Alibaba Product team, influencing product strategy and roadmap, and providing valuable feedback to enhance the **_UX_** _(user experience)_ of custom internal tools _(Gitlab, Lark, Aone)_
 - Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives though **_Kanban_** boards.
-- Successfully maintained compliance for over **_12,000_** Lazada endpoints, including **_BYOD_** _(Bring Your Own Device)_, by implementing **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_ measures with **_DevSecOps_** principles and framework, **_CVE_** and **_ATT\&CK_** from  **_MITRE_** knowledge base.
+- Successfully maintained compliance for over **_12,000_** Lazada endpoints, including **_BYOD_** _(Bring Your Own Device)_, by implementing **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_ measures with **_DevSecOps_** principles and framework, **_CVE_** and **_ATT&CK_** from  **_MITRE_** knowledge base.
 - **_Technologies used:_** Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL.
 <br><br>
 
 **Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alibaba Cloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
-- Led the construction of Alicloud's Data Hall, overseeing the installation of a state-of-the-art facility with 6MW power capacity and over 25,000 server slots in both Singapore and India.
-- Successfully executed USD7M budgeted projects involving cabling, cabinet expansion, and network deliveries within tight work schedules, even during multiple change freezes.
-- Implemented efficient rack design proposals during the design stage, resulting in a significant increase in network deployment speed from 100 to 200 switches per day, without requiring additional resources.
-- Proficiently utilized project management methodologies such as Scrum and Gantt charts, along with tools like Jira and Gitlab, to ensure smooth coordination and collaboration throughout the projects.
-- **_Technologies used:_** Scrum, Gantt, HVAC, Schneider, Jira, Gitlab.
-- **_Selected partners closely I worked with:_**
-  - [Equinix Singapore is the most network-dense data center provider in Southeast Asia and offers access to many of the international and regional networks connecting the region, including one of the world’s 3 GRX peering points](https://www.equinix.sg/)
-  - [The foundation of a smarter, more sustainable digital future](https://www.sttelemediagdc.com/)
+- Led the construction of Alicloud’s Data Hall, overseeing the installation of a state-of-the-art facility with more than 6MW power capacity and over **_25,000_** server slots in **_Singapore_** and **_India_**.
+- Successfully executed **_USD7M_** budgeted projects involving cabling in 10G and 100G, cabinet expansion, and network deliveries within tight work schedules, even during multiple change freezes. Eventually, helped expanding **_Alicloud's Availability Zones (AZs)_** in **_APAC_**.
+- Implemented efficient rack design proposals during the design stage, resulting in a significant increase in network deployment speed from **_100_** to **_200_** switches per day, without requiring additional resources.
+- Proficiently utilized project management methodologies such as **_Scrum, Kanban_** and **_Gantt charts_**, along with tools like **_Jira, Confluence_** and **_Gitlab_**, to ensure smooth coordination and collaboration throughout the projects.
+- **_Technologies used:_** Jira, Confluence, Racktables, Device42, Git, AWS, Route53, IAM, RDS, EC2, Puppet.
 <br><br>
 
 **Lead Network Engineer** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
