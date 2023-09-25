@@ -1,6 +1,6 @@
 # Ibrahim Nowshad
 
-_Taiwan Employment Gold Card and Infrastructure, Site Reliability & Security Engineer based at Bengaluru 🇮🇳_<br>
+_Taiwan Employment Gold Card and Infrastructure, Site Reliability & Security Engineer based at Bangalore 🇮🇳 and Dubai 🇦🇪_<br>
 
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
@@ -8,19 +8,19 @@ _Taiwan Employment Gold Card and Infrastructure, Site Reliability & Security Eng
 
 **Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
-- Successfully stabilized, architected, and expanded the IT infrastructure of cult.sport, a prominent brand under the umbrella of cure.fit.
-- Developed code across multiple architecture layers, including the application core and seamless integrations with external services.
-- Spearheaded the implementation of a cutting-edge Wazuh SIEM solution to enhance the security posture of cure.fit.
-- **_Technologies used:_** Git, Bind9, Wazuh, Nessus, Puppet, Proxmox, Palo Alto, Cisco.
+- Successfully stabilized, architected, and expanded the IT infrastructure of cult.sport, a prominent brand under the umbrella of cure.fit with help of **_Proxmox, Docker, Portainer_** and **_Ubuntu_**.
+- Developed code across multiple architecture layers, including the application core and seamless integrations with external services, through **_Scripts, YAML, Prometheus, Grafana, Node-Exporter, Telegram APIs_** and **_Uptime Kuma_**.
+- Spearheaded the implementation of a cutting-edge **_SIEM_** _(Security information and event management)_ solution to enhance the security posture of cure.fit with **_Wazuh, ELK_**.
+- **_Technologies used:_** _Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
 **Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Established strong relationships with C-Level executives, effectively pitching ideas and driving changes to redesign the IT infrastructure in Redmart fulfillment. Ensured uninterrupted deliveries even during technical outages.
-- Collaborated closely with the Alibaba Product team, influencing product strategy and roadmap, and providing valuable feedback to enhance the user experience (UX) of internal tools.
-- Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives.
-- Successfully maintained compliance for over 12,000 Lazada endpoints, including BYOD (Bring Your Own Device), by implementing Data Loss Protection (DLP) and Endpoint Detection and Response (EDR) measures.
-- **_Technologies used:_** Git, Jira, Confluence, SQL.
+- Collaborated closely with the Alibaba Product team, influencing product strategy and roadmap, and providing valuable feedback to enhance the **_UX_** _(user experience)_ of custom internal tools _(Gitlab, Lark, Aone)_
+- Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives though **_Kanban_** boards.
+- Successfully maintained compliance for over **_12,000_** Lazada endpoints, including **_BYOD_** _(Bring Your Own Device)_, by implementing **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_ measures with **_DevSecOps_** principles and framework, **_CVE_** and **_ATT\&CK_** from  **_MITRE_** knowledge base.
+- **_Technologies used:_** Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL.
 <br><br>
 
 **Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
