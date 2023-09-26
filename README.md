@@ -54,7 +54,7 @@ Fashion e‐tailer of India, acquired by Flipkart and Walmart
 
 ## 🚀 Other Positions Held
 
-**Senior Executive - IT Infrastructure** @ [Cafe Coffee Day](https://cafecoffeeday.com) _(Jan 2012 - Apr 2014)_ <br>
+**Senior Executive - IT Infrastructure** @ [Café Coffee Day](https://cafecoffeeday.com) _(Jan 2012 - Apr 2014)_ <br>
 **Junior Network Engineer** @ [iTech India](https://itechind.com) _(Oct 2010 - Jan 2012)_
 
 ## 🎓 Education
