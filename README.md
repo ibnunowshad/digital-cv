@@ -24,7 +24,7 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 <br><br>
 
 **Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
-Alibaba Cloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
+Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
 - Led the construction of Alicloud’s Data Hall, overseeing the installation of a state-of-the-art facility with more than 6MW power capacity and over **_25,000_** server slots in **_Singapore_** and **_India_**.
 - Successfully executed **_USD7M_** budgeted projects involving cabling in 10G and 100G, cabinet expansion, and network deliveries within tight work schedules, even during multiple change freezes. Eventually, helped expanding **_Alicloud's Availability Zones (AZs)_** in **_APAC_**.
 - Implemented efficient rack design proposals during the design stage, resulting in a significant increase in network deployment speed from **_100_** to **_200_** switches per day, without requiring additional resources.
@@ -33,7 +33,7 @@ Alibaba Cloud provides reliable and secure cloud computing and data processing c
 <br><br>
 
 **Lead Network Engineer** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
-Regional news aggregator in India through a mobile app called Dailyhunt
+Regional news aggregator in India through a mobile app called [dailyhunt](https://dailyhunt.in)
 - Successfully improved the bandwidth threshold of network traffic by implementing **_Grafana_** and **_Cacti_**, resulting in a remarkable **_99%_** accuracy for horizontal scaling.
 - Significantly reduced traffic offloading from **_80%_** to **_40%_** through collaboration with Content Delivery Partners like **_Akamai_** and **_Cloudflare_**. Implemented clean code principles to optimize performance and achieve this notable reduction.
 - Streamlined network changes by integrating Git version control, enabling faster implementation of network modifications. This enhancement increased efficiency for planned maintenance in the cloud from **_65%_** to an impressive **_95%_**.
