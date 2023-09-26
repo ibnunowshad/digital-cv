@@ -23,7 +23,7 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL_.
 <br><br>
 
-**Technical Project Manager** @ [Alibaba Cloud](https://.alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
+**Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
 - Led the construction of Alicloud’s Data Hall, overseeing the installation of a state-of-the-art facility with more than 6MW power capacity and over **_25,000_** server slots in **_Singapore_** and **_India_**.
 - Successfully executed **_USD7M_** budgeted projects involving cabling in 10G and 100G, cabinet expansion, and network deliveries within tight work schedules, even during multiple change freezes. Eventually, helped expanding **_Alicloud's Availability Zones (AZs)_** in **_APAC_**.
