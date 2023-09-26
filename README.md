@@ -43,7 +43,7 @@ Regional news aggregator in India through a mobile app called [dailyhunt](https:
 
 **Lead Network Engineer** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
 Fashion e‐tailer of India, acquired by Flipkart and Walmart
-- Built and led a high-performing team of **_8 System/Network Engineers_**, strategically developing in-house capabilities to effectively manage and monitor thousands of Myntra nodes. **_Result_**_: _Streamlined operations and improved overall efficiency_.
+- Built and led a high-performing team of **_8 System/Network Engineers_**, strategically developing in-house capabilities to effectively manage and monitor thousands of Myntra nodes. **_Result_**: _Streamlined operations and improved overall efficiency_.
 - Successfully coached and optimized the inventory of network equipment, effectively minimizing product surplus and enhancing resource allocation. As a result, achieved an impressive up-time rate of **_99.99%_**, ensuring uninterrupted service delivery.
 - Architected a robust platform infrastructure that prioritized reliability, performance, and security. By implementing cutting‐edge design principles, strengthened the foundation of the system, enabling seamless operations, enhanced user experience, and fortified data protection.
 - Enhanced quality control within Network Engineering team by **_2%_** every month preventive maintenance by Network and Security audits.
