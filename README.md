@@ -69,7 +69,7 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 ## 📚 Certifications
 
-(Schneider) Data Center University Associate Development Path
+(Schneider) Data Center University Associate Development Path <br>
 (Cybrary) Nessus Fundamentals <br>
 (Cybrary) Manage a Network Infrastructure <br>
 (Rackspace) CloudU Rackspace Certified <br>
