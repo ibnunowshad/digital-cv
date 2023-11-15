@@ -69,9 +69,9 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 ## 📚 Certifications
 
-(Schneider) Data Center University Associate Development Path <br>
-(Cybrary) Nessus Fundamentals <br>
-(Cybrary) Manage a Network Infrastructure <br>
-(Rackspace) CloudU Rackspace Certified <br>
-VMware Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-Microsoft Certified IT Professional, Technology Specialist, Solution Associate
+**(Schneider)** Data Center University Associate Development Path <br>
+**(Cybrary)** Nessus Fundamentals <br>
+**(Cybrary)** Manage a Network Infrastructure <br>
+**(Rackspace)** CloudU Rackspace Certified <br>
+**VMware** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
+**Microsoft** Certified IT Professional, Technology Specialist, Solution Associate
