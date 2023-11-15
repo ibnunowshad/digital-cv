@@ -1,6 +1,6 @@
 # Ibrahim Nowshad
 
-_Taiwan Employment Gold Card and Infrastructure, Site Reliability & Security Engineer based at Bangalore 🇮🇳 and Dubai 🇦🇪_<br>
+_Taiwan Employment Gold Card holder, Infrastructure, Site Reliability & Security Engineer based in Dubai 🇦🇪_<br>
 
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
