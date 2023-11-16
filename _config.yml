@@ -20,7 +20,7 @@ jekyll_analytics:
 
   Plausible:
     domain: 'cv.ibnunowshad.com'   # The domain configured in plausible
-    source: 'https://plausible.example.com/js/plausible.js' # The source of the javascript
+    source: 'https://plausible.io/js/script.js' # The source of the javascript
 title: 💻✒️📄🌟
 description: Ibrahim Nowshad's CV
 google_analytics: G-4QEDTF8Z06
