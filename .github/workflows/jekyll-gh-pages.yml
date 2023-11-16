@@ -47,9 +47,15 @@ jobs:
           destination: ./_site
       - name: Add Jekyll Analytics
         run: |
-          echo "group :jekyll_plugins do" >> Gemfile
-          echo "   gem 'jekyll-analytics'" >> Gemfile
-          echo "end" >> Gemfile
+          if [ -f Gemfile ]; then
+            echo "group :jekyll_plugins do" >> Gemfile
+            echo "   gem 'jekyll-analytics'" >> Gemfile
+            echo "end" >> Gemfile
+          else
+            echo "group :jekyll_plugins do" > Gemfile
+            echo "   gem 'jekyll-analytics'" >> Gemfile
+            echo "end" >> Gemfile
+          fi
           bundle install
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
