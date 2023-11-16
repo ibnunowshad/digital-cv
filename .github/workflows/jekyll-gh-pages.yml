@@ -28,7 +28,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      name: Setup Ruby
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2.2
@@ -42,7 +42,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      name: Add Jekyll Analytics
+      - name: Add Jekyll Analytics
         run: |
           echo "group :jekyll_plugins do" >> Gemfile
           echo "  gem 'jekyll-analytics'" >> Gemfile
