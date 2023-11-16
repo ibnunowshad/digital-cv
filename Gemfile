@@ -20,5 +20,5 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   #gem "jekyll-feed", "~> 0.12"
   #gem "jekyll-timeago", "~> 0.13.1"
-  gem "jekyll-analytics", "~> 0.1.14" 
+  gem "jekyll-analytics"
 end
