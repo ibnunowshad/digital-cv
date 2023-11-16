@@ -1,6 +1,26 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-analytics
+jekyll_analytics:
+  #GoogleAnalytics:          # Add, if you want to track with Google Analytics
+  #  id: UA-123-456          # Required - replace with your tracking id
+  #  anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+  #Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
+  #  url: matomo.example.com # Required - url to Matomo installation without trailing /
+  #  siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
+
+  #Piwik:                    # Add, if you want to track with Piwik
+  #  url: piwik.example.com  # Required - url to Piwik installation without trailing /
+  #  siteId: "1234"          # Required - replace with your Piwik site id (Write id as string)
+
+  #MPulse:                   # Add if you want to track performance with mPulse
+  #  apikey: XXXXX-YYYYY-ZZZZZ-AAAAA-23456   # Required - replace with your mPulse API key
+
+  Plausible:
+    domain: 'cv.ibnunowshad.com'   # The domain configured in plausible
+    source: 'https://plausible.example.com/js/plausible.js' # The source of the javascript
 title: 💻✒️📄🌟
 description: Ibrahim Nowshad's CV
 google_analytics: G-4QEDTF8Z06
