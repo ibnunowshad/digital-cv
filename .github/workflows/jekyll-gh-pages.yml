@@ -31,7 +31,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.5
+          ruby-version: 2.7.4
       - name: Install Dependencies
         run: |
           bundle install
@@ -45,7 +45,7 @@ jobs:
       - name: Add Jekyll Analytics
         run: |
           echo "group :jekyll_plugins do" >> Gemfile
-          echo "  gem 'jekyll-analytics'" >> Gemfile
+          echo "gem 'jekyll-analytics'" >> Gemfile
           echo "end" >> Gemfile
           bundle install
       - name: Upload artifact
