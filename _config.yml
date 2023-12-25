@@ -1,4 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
+title: 💻✒️📄🌟
+description: Ibrahim Nowshad's CV
+#google_analytics: [Your Google Analytics tracking ID]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-analytics
@@ -21,5 +24,3 @@ jekyll_analytics:
   Plausible:
     domain: 'cv.ibnunowshad.com'   # The domain configured in plausible
     source: 'https://plausible.io/js/script.js' # The source of the javascript
-title: 💻✒️📄🌟
-description: Ibrahim Nowshad's CV

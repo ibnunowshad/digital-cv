@@ -8,9 +8,12 @@ _Taiwan Employment Gold Card holder, Infrastructure, Site Reliability & Security
 
 **Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
-- Successfully stabilized, architected, and expanded the IT infrastructure of cult.sport, a prominent brand under the umbrella of cure.fit with help of **_Proxmox, Docker, Portainer_** and **_Ubuntu_**.
-- Developed code across multiple architecture layers, including the application core and seamless integrations with external services, through **_Scripts, YAML, Prometheus, Grafana, Node-Exporter, Telegram APIs_** and **_Uptime Kuma_**.
-- Spearheaded the implementation of a cutting-edge **_SIEM_** _(Security information and event management)_ solution to enhance the security posture of cure.fit with **_Wazuh, ELK_**.
+- Reduced downtime by **_35%_** by migrating legacy services to a highly available Proxmox-based infrastructure with containerized deployments using **_Proxmox, Docker, Portainer_** and **_Ubuntu_**.
+- Developed **_Prometheus_** alerts and **_Grafana_** dashboards to monitor key infrastructure metrics and trigger proactive notifications for potential issues.
+- Improved security incident response time by **_20%_** by implementing **_Wazuh_** and **_ELK_** stack for centralized logging, analysis, and threat detection.
+- Led incident response efforts for 7 major outages, resolving them within 2 hours on average thanks to **_Wazuh_** and **_ELK_**-based situational awareness.
+- Collaborated with developers and operations teams to implement **_DevOps_** practices and automate infrastructure rollouts and scaling, reducing mean time to deployment by **_40%_**.
+- Established **_SRE_** culture and practices within the IT team, empowering engineers to own incident response and proactive monitoring while fostering cross-functional collaboration.
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
