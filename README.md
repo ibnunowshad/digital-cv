@@ -32,9 +32,14 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 
 **Technical Project Manager - Product and Infrastructure** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
-- Led the construction of Alicloud’s Data Hall, overseeing the installation of a state-of-the-art facility with more than 6MW power capacity and over **_25,000_** server slots in **_Singapore_** and **_India_**.
-- Successfully executed **_USD7M_** budgeted projects involving cabling in 10G and 100G, cabinet expansion, and network deliveries within tight work schedules, even during multiple change freezes. Eventually, helped expanding **_Alicloud's Availability Zones (AZs)_** in **_APAC_**.
-- Implemented efficient rack design proposals during the design stage, resulting in a significant increase in network deployment speed from **_100_** to **_200_** switches per day, without requiring additional resources.
+- Led the construction of a highly available and resilient Datacenter _(Private, Public and Hybrid Cloud)_, exceeding industry standards for uptime and disaster recovery.
+- Achieved **_99.99%_** uptime SLA through redundant power systems, automated self-healing infrastructure, and comprehensive disaster recovery plan.
+- Increased network deployment speed by **_100%_** _(from 100 to 200 switches/day)_ through innovative rack design and automation initiatives.
+- Utilized Infrastructure Management tools like **_Device42_** and **_Racktables_** to manage rack provisioning and configuration.
+- Reduced resource requirements and minimized deployment disruption while increasing network scalability.
+- Successfully executed large-scale network projects **_(USD 7M)_** involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery.
+- Implemented rolling deployments and automated failover to minimize downtime during critical network changes.
+- Completed projects on time and within budget, contributing to the expansion of Alicloud's **_Availability Zones_** _(AZs)_ in APAC.
 - Proficiently utilized project management methodologies such as **_Scrum, Kanban_** and **_Gantt charts_**, along with tools like **_Jira, Confluence_** and **_Gitlab_**, to ensure smooth coordination and collaboration throughout the projects.
 - **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, AWS, Route53, IAM, RDS, EC2, Puppet_.
 <br><br>
