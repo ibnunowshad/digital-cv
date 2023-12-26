@@ -8,7 +8,7 @@ _Taiwan Employment Gold Card holder, Infrastructure, Site Reliability & Security
 
 **Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
-- Reduced downtime by **_35%_** by migrating legacy services to a highly available Proxmox-based infrastructure with containerized deployments using **_Proxmox, Docker, Portainer_** and **_Ubuntu_**.
+- Reduced downtime by **_35%_** by migrating legacy services to a highly available **_Proxmox_**-based infrastructure with containerized deployments using **_Docker, Portainer_** and **_Ubuntu_**.
 - Developed **_Prometheus_** alerts and **_Grafana_** dashboards to monitor key infrastructure metrics and trigger proactive notifications for potential issues.
 - Improved security incident response time by **_20%_** by implementing **_Wazuh_** and **_ELK_** stack for centralized logging, analysis, and threat detection.
 - Led incident response efforts for 7 major outages, resolving them within 2 hours on average thanks to **_Wazuh_** and **_ELK_**-based situational awareness.
@@ -19,10 +19,14 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 
 **Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
-- Established strong relationships with C-Level executives, effectively pitching ideas and driving changes to redesign the IT infrastructure in Redmart fulfillment. Ensured uninterrupted deliveries even during technical outages.
-- Collaborated closely with the Alibaba Product team, influencing product strategy and roadmap, and providing valuable feedback to enhance the **_UX_** _(user experience)_ of custom internal tools _(Gitlab, Lark, Aone)_
+- Redesigned the fulfillment infrastructure with improved operational resilience and uptime as key objectives. Achieved uninterrupted deliveries even during multiple major outages by implementing rearchitectured infrastructure, Prometheus alerts, automated failover.
+- Collaborated with product teams to integrate SRE principles into custom internal tools _(Gitlab, Lark, Aone)_.
+- Developed custom Prometheus exporters to monitor application health and user experience metrics, enabling proactive identification and resolution of performance issues.
+- Improved observability and reduced customer impact by resolving **_UX_** _(user experience)_ issues **_20%_** faster.
 - Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives though **_Kanban_** boards.
-- Successfully maintained compliance for over **_12,000_** Lazada endpoints, including **_BYOD_** _(Bring Your Own Device)_, by implementing **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_ measures with **_DevSecOps_** principles and framework, **_CVE_** and **_ATT&CK_** from  **_MITRE_** knowledge base.
+- Implemented a comprehensive **_DevSecOps_** framework for continuous security monitoring and threat detection.
+- Maintained compliance for **_12,000+_** Lazada endpoints _(including **_BYOD_** devices)_ using **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and MITRE knowledge bases _(**CVE** and **ATT&CK**)_.
+- Reduced identified vulnerabilities by **_65%_** and improved incident response time by **_12%_**.
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL_.
 <br><br>
 
