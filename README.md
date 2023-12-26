@@ -25,7 +25,7 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 - Improved observability and reduced customer impact by resolving **_UX_** _(user experience)_ issues **_20%_** faster.
 - Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives though **_Kanban_** boards.
 - Implemented a comprehensive **_DevSecOps_** framework for continuous security monitoring and threat detection.
-- Maintained compliance for **_12,000+_** Lazada endpoints _(including **_BYOD_** devices)_ using **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and **_MITRE_** knowledge bases _(**CVE** and **ATT&CK**)_.
+- Maintained compliance for **_12,000+_** Lazada endpoints _(including **BYOD** devices)_ using **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and **_MITRE_** knowledgebases _(**CVE** and **ATT&CK**)_.
 - Reduced identified vulnerabilities by **_65%_** and improved incident response time by **_12%_**.
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL_.
 <br><br>
