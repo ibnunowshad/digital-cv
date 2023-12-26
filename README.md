@@ -46,10 +46,14 @@ Alicloud provides reliable and secure cloud computing and data processing capabi
 
 **Lead Network Engineer - Site Reliability** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
 Regional news aggregator in India through a mobile app called [dailyhunt](https://dailyhunt.in)
-- Successfully improved the bandwidth threshold of network traffic by implementing **_Grafana_** and **_Cacti_**, resulting in a remarkable **_99%_** accuracy for horizontal scaling.
-- Significantly reduced traffic offloading from **_80%_** to **_40%_** through collaboration with Content Delivery Partners like **_Akamai_** and **_Cloudflare_**. Implemented clean code principles to optimize performance and achieve this notable reduction.
-- Streamlined network changes by integrating Git version control, enabling faster implementation of network modifications. This enhancement increased efficiency for planned maintenance in the cloud from **_65%_** to an impressive **_95%_**.
-- Led an agile team of **_4 Reliability Engineers_**, fostering a collaborative environment and identifying their individual career growth areas. Guided the team to excel in **_CI/CD (Continuous Integration/Continuous Deployment)_** principles, empowering them to deliver high-quality results.
+- Implemented **_Grafana_** and **_Cacti_** to monitor network traffic and trigger automated auto scalling at **_99%_** accuracy, ensuring optimal resource utilization and service availability.
+- Increased network capacity and reduced maintenance windows, leading to **_60%_** improvement in user experience metrics such as response times, sessions stability.
+- Collaborated with Content Delivery Partners _(**Akamai, Cloudflare**)_ to implement traffic offloading, reducing internal network load by **_40%_**.
+- Enhanced network performance and scalability while achieving **_30%_** cost savings on network resources.
+- Introduced Git version control for network configurations, enabling faster rollout and rollback of changes, minimizing risk and downtime.
+- Increased efficiency of planned maintenance tasks in the cloud from **_65%_** to **_95%_**, reducing service disruptions and operational overhead.
+- Promoted CI/CD practices within the team, empowering engineers to automate network deployments and improve code quality.
+- Built and led a collaborative team of 4 Reliability Engineers, fostering a culture of learning and skill development.
 - **_Technologies used:_** _Jira, Confluence, Git, Akamai, Cloudflare, Citrix, Brocade, Openstack, VMware, Ceph_.
 <br><br>
 
