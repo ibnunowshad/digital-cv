@@ -39,7 +39,7 @@ Alicloud provides reliable and secure cloud computing and data processing capabi
 - Reduced resource requirements and minimized deployment disruption while increasing network scalability.
 - Successfully executed large-scale network projects **_(USD 7M)_** involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery.
 - Implemented rolling deployments and automated failover to minimize downtime during critical network changes.
-- Completed projects on time and within budget, contributing to the expansion of Alicloud's **_Availability Zones_** _(AZs)_ in APAC.
+- Completed projects on time and within budget, contributing to the expansion of Alicloud's **_Availability Zones_** _(AZs)_, **_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
 - Proficiently utilized project management methodologies such as **_Scrum, Kanban_** and **_Gantt charts_**, along with tools like **_Jira, Confluence_** and **_Gitlab_**, to ensure smooth coordination and collaboration throughout the projects.
 - **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, AWS, Route53, IAM, RDS, EC2, Puppet_.
 <br><br>
