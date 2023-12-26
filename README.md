@@ -6,7 +6,7 @@ _Taiwan Employment Gold Card holder, Infrastructure, Site Reliability & Security
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Manager - IT Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
+**Manager - Reliability & Security** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
 - Reduced downtime by **_35%_** by migrating legacy services to a highly available **_Proxmox_**-based infrastructure with containerized deployments using **_Docker, Portainer_** and **_Ubuntu_**.
 - Developed **_Prometheus_** alerts and **_Grafana_** dashboards to monitor key infrastructure metrics and trigger proactive notifications for potential issues.
@@ -17,7 +17,7 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
-**Technology Manager - Reliability** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
+**Technology Manager - Reliability & Security** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Redesigned the fulfillment infrastructure with improved operational resilience and uptime as key objectives. Achieved uninterrupted deliveries even during multiple major outages by implementing rearchitectured infrastructure, Prometheus alerts, automated failover.
 - Collaborated with product teams to integrate SRE principles into custom internal tools _(Gitlab, Lark, Aone)_.
@@ -30,7 +30,7 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL_.
 <br><br>
 
-**Technical Project Manager - Product and Infrastructure** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
+**Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
 - Led the construction of a highly available and resilient Datacenter _(Private, Public and Hybrid Cloud)_, exceeding industry standards for uptime and disaster recovery.
 - Achieved **_99.99%_** uptime SLA through redundant power systems, automated self-healing infrastructure, and comprehensive disaster recovery plan.
