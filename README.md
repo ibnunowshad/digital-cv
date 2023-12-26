@@ -59,12 +59,16 @@ Regional news aggregator in India through a mobile app called [dailyhunt](https:
 
 **Lead Network Engineer** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
 Fashion e‐tailer of India, acquired by Flipkart and Walmart
-- Built and led a high-performing team of **_8 System/Network Engineers_**, strategically developing in-house capabilities to effectively manage and monitor thousands of Myntra nodes. **_Result_**: _Streamlined operations and improved overall efficiency_.
-- Successfully coached and optimized the inventory of network equipment, effectively minimizing product surplus and enhancing resource allocation. As a result, achieved an impressive up-time rate of **_99.99%_**, ensuring uninterrupted service delivery.
-- Architected a robust platform infrastructure that prioritized reliability, performance, and security. By implementing cutting‐edge design principles, strengthened the foundation of the system, enabling seamless operations, enhanced user experience, and fortified data protection.
-- Enhanced quality control within Network Engineering team by **_2%_** every month preventive maintenance by Network and Security audits.
-- Designed operational practices to ensure reliability and respond effectively to production incidents.
-- Worked together with technical management to define the roadmap and resourcing plans for core platform.
+- Established and led a dynamic team of **_8 System/Network Engineers_**, fostering a culture of SRE principles and continuous improvement.
+- Streamlined operations and achieved **_25%_** increase in operational efficiency through automated monitoring, incident response practices, and knowledge sharing initiatives.
+- Implemented predictive maintenance and inventory management best practices, reducing surplus equipment by **_20%_** and optimizing resource allocation.
+- Achieved a **_99.99%_** uptime rate, minimizing service disruptions and exceeding SLAs, while optimizing infrastructure cost.
+- Designed a highly reliable, performant, and secure platform infrastructure that prioritized continuous monitoring, automation, and disaster recovery.
+- Utilized Infrastructure opensource tools and cloud-native technologies to enable rapid and secure deployments.
+- Enhanced user experience and ensured data protection, supporting future growth and scalability.
+- Instituted monthly network and security audits, increasing incident detection accuracy by **_2%_** and proactive resolution rate by **_95%_**.
+- Minimized incident downtime and improved overall system resilience through effective root cause analysis and automated remediation workflows.
+- Partnered with technical management to define the platform roadmap and resource allocation plans, aligning infrastructure with SRE principles and scaling needs.
 -  **_Technologies used:_** _Jira, Confluence, Git, Slack, Ruckus, Fortinet, Extreme Networks, VMWare, Shell_.
 <br><br>
 
