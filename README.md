@@ -5,6 +5,7 @@ _Taiwan Employment Gold Card holder, Infrastructure, Site Reliability & Security
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
 ## 👩🏼‍💻 Engineering Experience
+Infrastructure pro turned cloud architect, crafting robust, secure solutions on leading platforms. Proven experience in migrations, automation, and security. Passionate learner, global explorer, ready to build cloud kingdoms.
 
 **Manager - Reliability & Security** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
