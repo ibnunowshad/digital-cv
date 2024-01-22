@@ -90,6 +90,7 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 ## 📚 Certifications
 
+**(Cloud Native Computing Foundation and Linux Foundation)** Certified Kubernetes Administrator _(In Preparation)_<br>
 **(Schneider)** Data Center University Associate Development Path <br>
 **(Cybrary)** Nessus Fundamentals <br>
 **(Cybrary)** Manage a Network Infrastructure <br>
