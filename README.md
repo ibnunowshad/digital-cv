@@ -39,15 +39,11 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 
 **Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
-- Led the construction of a highly available and resilient Datacenter _(Private, Public and Hybrid Cloud)_, exceeding industry standards for uptime and disaster recovery.
-- Achieved **_99.99%_** uptime SLA through redundant power systems, automated self-healing infrastructure, and comprehensive disaster recovery plan.
-- Increased network deployment speed by **_100%_** _(from 100 to 200 switches/day)_ through innovative rack design and automation initiatives.
-- Utilized Infrastructure Management tools like **_Device42_** and **_Racktables_** to manage rack provisioning and configuration.
-- Reduced resource requirements and minimized deployment disruption while increasing network scalability.
-- Successfully executed large-scale network projects **_(USD 7M)_** involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery.
+- Led the construction of a highly available and resilient Datacenter _(**Private, Public and Hybrid Cloud**)_ for Lazada and Alicloud in **_APAC_**, exceeding industry standards for uptime and disaster recovery. Achieved **_99.99%_** uptime SLA.
+- Optimized network deployment speed by **_100%_** _(from 100 to 200 networkswitches/day)_ through innovative rack design and automation initiatives using **_Device42_** and **_Racktables_**. Reduced resource requirements and minimized deployment disruption while increasing network scalability.
+- Successfully executed large-scale network projects _(**USD 7M**)_ involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery. Completed projects on time and within budget, contributing to the expansion of Alicloud’s **_Availability Zones_** _(AZs)_, C**_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
 - Implemented rolling deployments and automated failover to minimize downtime during critical network changes.
-- Completed projects on time and within budget, contributing to the expansion of Alicloud's **_Availability Zones_** _(AZs)_, **_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
-- Proficiently utilized project management methodologies such as **_Scrum, Kanban_** and **_Gantt charts_**, along with tools like **_Jira, Confluence_** and **_Gitlab_**, to ensure smooth coordination and collaboration throughout the projects.
+- Managed projects effectively using methodologies like **_Scrum, Kanban_** and **_Gantt charts_**, alongside collaboration tools like  **_Jira, Confluence_** and **_Gitlab_** to ensure smooth project coordination and execution.
 - **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, AWS, Route53, IAM, RDS, EC2, Puppet_.
 <br><br>
 
@@ -59,7 +55,7 @@ Regional news aggregator in India through a mobile app called [dailyhunt](https:
 - Introduced Git version control for network configurations, enabling faster deployments, rollbacks, and minimizing risk and downtime. Increased efficiency of planned maintenance tasks in the cloud from **_65%_** to **_95%_**.
 - Promoted **_Kaizen_** practices, empowering engineers to automate network deployments and improve code quality.
 - Built and led a collaborative team of 4 Reliability Engineers, fostering a culture of learning and skill development.
-- **_Technologies used:_** _Jira, Confluence, Git, Akamai, Cloudflare, Citrix, Brocade, Openstack, VMware, Ceph_.
+- **_Technologies used:_** _Jira, Confluence, Git, Akamai, Cloudflare, Citrix, Brocade, HPE 3PAR, Prometheus, Grafana, Openstack, VMware, Ceph_.
 <br><br>
 
 **Lead Network Engineer** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
@@ -69,7 +65,7 @@ Fashion e‐tailer of India, acquired by Flipkart and Walmart
 - Implemented best practices for predictive maintenance and inventory management, reducing surplus equipment by **_20%_** for optimized resource allocation.
 - Designed and secured a highly reliable, performant, and secure platform infrastructure prioritizing continuous monitoring, automation, and disaster recovery. Minimized service disruptions and exceeded SLAs.
 - Collaborated with technical leadership to define the platform roadmap and resource allocation plans, aligning infrastructure with **_SRE_** principles and scaling needs.
--  **_Technologies used:_** _Jira, Confluence, Git, Slack, Ruckus, Fortinet, Cisco, Exinda, Extreme Networks, VMWare, CentOS, Redhat, Shell_.
+-  **_Technologies used:_** _Jira, Confluence, Git, Slack, Kibana, Ruckus, Fortinet, Cisco, Exinda, Extreme Networks, VMWare, CentOS, Redhat, Shell_.
 <br><br>
 
 ## 🚀 Other Positions Held
