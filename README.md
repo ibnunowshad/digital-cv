@@ -26,15 +26,12 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 
 **Technology Manager - Reliability & Security** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
-- Redesigned the fulfillment infrastructure with improved operational resilience and uptime as key objectives. Achieved uninterrupted deliveries even during multiple major outages by implementing rearchitectured infrastructure, Prometheus alerts, automated failover.
-- Collaborated with product teams to integrate SRE principles into custom internal tools _(Gitlab, Lark, Aone)_.
-- Developed custom Prometheus exporters to monitor application health and user experience metrics, enabling proactive identification and resolution of performance issues.
-- Improved observability and reduced customer impact by resolving **_UX_** _(user experience)_ issues **_20%_** faster.
-- Demonstrated exceptional problem-solving skills by breaking down complex business issues, prioritizing tasks, and developing effective solutions for technical challenges and initiatives though **_Kanban_** boards.
-- Implemented a comprehensive **_DevSecOps_** framework for continuous security monitoring and threat detection.
-- Maintained compliance for **_12,000+_** Lazada endpoints _(including **BYOD** devices)_ using **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and **_MITRE_** knowledgebases _(**CVE** and **ATT&CK**)_.
-- Reduced identified vulnerabilities by **_65%_** and improved incident response time by **_12%_**.
-- **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL_.
+- Redesigned the fulfillment warehouse infrastructure prioritizing operational resilience and uptime. Achieved uninterrupted deliveries **_99.9%_** uptime even during major outages by implementing a rearchitected infrastructure with **_Prometheus_** and **_Grafana_** alerts and automated failover.
+- Collaborated with product teams to integrate SRE principles and developed custom monitoring tools. This enabled proactive identification and resolution of performance issues, leading to a **_20%_** better user experience in-house.
+- Implemented a comprehensive DevSecOps framework for continuous security monitoring and threat detection. Utilized **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and **_MITRE_** knowledgebases _(**CVE** and **ATT&CK**)_ knowledgebases to maintain compliance for over **_12,000_** Lazada endpoints _(including **BYOD** devices)_. This resulted in a significant reduction _(**65%**)_ in identified vulnerabilities.
+- Demonstrated exceptional problem-solving skills by breaking down complex business issues and prioritizing tasks using Kanban boards.
+- Maintained compliance for a large number of endpoints _(**12,000+**)_ using various security tools, indicating streamlined security operations.
+- **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL, Nessus, Carbon Black, Symantec_.
 <br><br>
 
 **Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
@@ -44,7 +41,7 @@ Alicloud provides reliable and secure cloud computing and data processing capabi
 - Successfully executed large-scale network projects _(**USD 7M**)_ involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery. Completed projects on time and within budget, contributing to the expansion of Alicloud’s **_Availability Zones_** _(AZs)_, C**_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
 - Implemented rolling deployments and automated failover to minimize downtime during critical network changes.
 - Managed projects effectively using methodologies like **_Scrum, Kanban_** and **_Gantt charts_**, alongside collaboration tools like  **_Jira, Confluence_** and **_Gitlab_** to ensure smooth project coordination and execution.
-- **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, AWS, Route53, IAM, RDS, EC2, Puppet_.
+- **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, Lark, Aone, GitLab, Cacti, AWS, Route53, IAM, RDS, EC2, Puppet_.
 <br><br>
 
 **Lead Network Engineer - Site Reliability** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
