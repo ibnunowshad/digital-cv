@@ -26,7 +26,7 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 
 **Technology Manager - Reliability & Security** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
-- Redesigned the fulfillment warehouse infrastructure prioritizing operational resilience and uptime. Achieved uninterrupted deliveries **_99.9%_** uptime even during major outages by implementing a rearchitected infrastructure with **_Prometheus_** and **_Grafana_** alerts and automated failover.
+- Redesigned the fulfilment warehouse infrastructure prioritizing operational resilience and uptime. Achieved uninterrupted deliveries **_99.9%_** uptime even during major outages by implementing a rearchitected infrastructure with **_Prometheus_** and **_Grafana_** alerts and automated failover.
 - Collaborated with product teams to integrate SRE principles and developed custom monitoring tools. This enabled proactive identification and resolution of performance issues, leading to a **_20%_** better user experience in-house.
 - Implemented a comprehensive DevSecOps framework for continuous security monitoring and threat detection. Utilized **_DLP_** _(Data Loss Protection)_, **_EDR_** _(Endpoint Detection and Response)_, and **_MITRE_** knowledgebases _(**CVE** and **ATT&CK**)_ knowledgebases to maintain compliance for over **_12,000_** Lazada endpoints _(including **BYOD** devices)_. This resulted in a significant reduction _(**65%**)_ in identified vulnerabilities.
 - Demonstrated exceptional problem-solving skills by breaking down complex business issues and prioritizing tasks using Kanban boards.
@@ -37,8 +37,8 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 **Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
 - Led the construction of a highly available and resilient Datacenter _(**Private, Public and Hybrid Cloud**)_ for Lazada and Alicloud in **_APAC_**, exceeding industry standards for uptime and disaster recovery. Achieved **_99.99%_** uptime SLA.
-- Optimized network deployment speed by **_100%_** _(from 100 to 200 networkswitches/day)_ through innovative rack design and automation initiatives using **_Device42_** and **_Racktables_**. Reduced resource requirements and minimized deployment disruption while increasing network scalability.
-- Successfully executed large-scale network projects _(**USD 7M**)_ involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery. Completed projects on time and within budget, contributing to the expansion of Alicloud’s **_Availability Zones_** _(AZs)_, C**_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
+- Optimized network deployment speed by **_100%_** _(from 100 to 200 network switches/day)_ through innovative rack design and automation initiatives using **_Device42_** and **_Racktables_**. Reduced resource requirements and minimized deployment disruption while increasing network scalability.
+- Successfully executed large-scale network projects _(**USD 7M**)_ involving intricate cabling upgrades and expansions, ensuring uninterrupted service delivery. Completed projects on time and within budget, contributing to the expansion of Alicloud’s **_Availability Zones_** _(AZs)_, **_Content Delivery Network_** _(Alicloud CDN)_ in **_APAC_**.
 - Implemented rolling deployments and automated failover to minimize downtime during critical network changes.
 - Managed projects effectively using methodologies like **_Scrum, Kanban_** and **_Gantt charts_**, alongside collaboration tools like  **_Jira, Confluence_** and **_Gitlab_** to ensure smooth project coordination and execution.
 - **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, Lark, Aone, GitLab, Cacti, AWS, Route53, IAM, RDS, EC2, Puppet_.
@@ -62,7 +62,7 @@ Fashion e‐tailer of India, acquired by Flipkart and Walmart
 - Implemented best practices for predictive maintenance and inventory management, reducing surplus equipment by **_20%_** for optimized resource allocation.
 - Designed and secured a highly reliable, performant, and secure platform infrastructure prioritizing continuous monitoring, automation, and disaster recovery. Minimized service disruptions and exceeded SLAs.
 - Collaborated with technical leadership to define the platform roadmap and resource allocation plans, aligning infrastructure with **_SRE_** principles and scaling needs.
--  **_Technologies used:_** _Jira, Confluence, Git, Slack, Kibana, Ruckus, Fortinet, Cisco, Exinda, Extreme Networks, VMWare, CentOS, Redhat, Shell_.
+-  **_Technologies used:_** _Jira, Confluence, Git, Slack, Kibana, Ruckus, Fortinet, Cisco, Exinda, Extreme Networks, VMWare, CentOS, Redhat, Bash_.
 <br><br>
 
 ## 🚀 Other Positions Held
