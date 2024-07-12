@@ -6,7 +6,7 @@ _Infrastructure pro turned cloud architect, crafting robust, secure solutions on
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Freelance - Site Reliability Engineer** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
+**Freelance - IT Architect** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
 - Consulted with low-cost startups on cloud solution selection and go-to-market strategies, focusing on **_x86_** and **_arm64_** architectures.
 - Designed and implemented secure remote access solutions using **_Tailscale_** and **_Zitadel_** for identity and single sign-on.
 - Automated deployment and maintenance workflows for static websites built with **_Hugo_** and **_Jekyll_** using **_Cloudflare_**, **_GitHub Actions_**, and **_GitLab CI/CD_**.
@@ -88,4 +88,4 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 **(Cybrary)** Certified Nessus Fundamentals, Manage a Network Infrastructure <br>
 **(Rackspace)** CloudU Rackspace Certified <br>
 **(VMware)** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-**(Microsoft)** [Certified IT Professional, Technology Specialist, Solution Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
+**(Microsoft)** [Certified IT Professional, Technology Specialist, Solutions Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
