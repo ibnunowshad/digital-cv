@@ -85,8 +85,7 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 **(Cloud Native Computing Foundation and Linux Foundation)** Certified Kubernetes Administrator _(In Preparation)_<br>
 **(Google Cloud Platform)** Professional Cloud Architect _(In Preparation)_<br>
 **(Schneider)** [Data Center Certified Associate Exam Development Path](https://schneider.efrontlearning.com/certificates/serial/f9483c130f2a80c0091b175606f5f2dd) <br>
-**(Cybrary)** Nessus Fundamentals <br>
-**(Cybrary)** Manage a Network Infrastructure <br>
+**(Cybrary)** Certified Nessus Fundamentals, Manage a Network Infrastructure <br>
 **(Rackspace)** CloudU Rackspace Certified <br>
-**VMware** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-**Microsoft** [Certified IT Professional, Technology Specialist, Solution Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
+**(VMware)** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
+**(Microsoft)** [Certified IT Professional, Technology Specialist, Solution Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
