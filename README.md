@@ -13,7 +13,7 @@ _Infrastructure pro turned cloud architect, crafting robust, secure solutions on
 - **_Technologies used:_** _Jira, Confluence, Cloudflare, Gitlab CI/CD, Hugo, Jekyll, GitHub Actions, Git, OpenID Connect, IdP, SSO, Zitadel, Tailscale, Kubernetes, Puppet, Proxmox_.
 <br><br>
 
-**Manager - Reliability & Security** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
+**Cloud Infrasructure Architect** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
 - Reduced downtime by **_35%_** by migrating legacy services to a highly available **_Proxmox_**-based infrastructure with containerized deployments using **_Docker, Portainer_** and **_Ubuntu_**.
 - Developed **_Prometheus_** alerts and **_Grafana_** dashboards to monitor key infrastructure metrics and trigger proactive notifications for potential issues.
@@ -24,7 +24,7 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
-**Technology Manager - Reliability & Security** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
+**Information Technology System Architect** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Redesigned the fulfilment warehouse infrastructure prioritizing operational resilience and uptime. Achieved uninterrupted deliveries **_99.9%_** uptime even during major outages by implementing a rearchitected infrastructure with **_Prometheus_** and **_Grafana_** alerts and automated failover.
 - Collaborated with product teams to integrate SRE principles and developed custom monitoring tools. This enabled proactive identification and resolution of performance issues, leading to a **_20%_** better user experience in-house.
@@ -83,9 +83,9 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 ## 📚 Certifications
 
 **(Cloud Native Computing Foundation and Linux Foundation)** Certified Kubernetes Administrator _(In Preparation)_<br>
-**(Schneider)** Data Center University Associate Development Path <br>
+**(Schneider)** [Data Center Certified Associate Exam Development Path](https://schneider.efrontlearning.com/certificates/serial/f9483c130f2a80c0091b175606f5f2dd) <br>
 **(Cybrary)** Nessus Fundamentals <br>
 **(Cybrary)** Manage a Network Infrastructure <br>
 **(Rackspace)** CloudU Rackspace Certified <br>
 **VMware** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-**Microsoft** Certified IT Professional, Technology Specialist, Solution Associate
+**Microsoft** [Certified IT Professional, Technology Specialist, Solution Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
