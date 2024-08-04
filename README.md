@@ -82,8 +82,9 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 ## 📚 Certifications
 
-**(CNCF)** Certified Kubernetes Administrator _(In Preparation)_<br>
-**(Google Cloud)** Professional Cloud Architect _(In Preparation)_<br>
+**(Cloud Native Cloud Foundation - CNCF)** Certified Kubernetes Administrator _(In-progress)_<br>
+**(Google Cloud Platform - GCP)** Professional Cloud Architect _(In-progress)_<br>
+**(Oracle Cloud Infrastructure - OCI)** [Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=345682C8994D6E04971F4C39586E9025D968727D69029A232FE474FF90933F28) _(1Z0-1085-24)_<br>
 **(Schneider)** [Data Center Certified Associate Exam Development Path](https://schneider.efrontlearning.com/certificates/serial/f9483c130f2a80c0091b175606f5f2dd) <br>
 **(Cybrary)** Certified Nessus Fundamentals, Manage a Network Infrastructure <br>
 **(Rackspace)** CloudU Rackspace Certified <br>
