@@ -82,12 +82,12 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 ## 📚 Certifications
 
-**(Cloud Native Cloud Foundation - CNCF)** Certified Kubernetes Administrator _(In-progress)_<br>
+**(Cloud Native Cloud Foundation - CNCF)** Kubernetes Administrator _(In-progress)_<br>
 **(Google Cloud Platform - GCP)** Professional Cloud Architect _(In-progress)_<br>
-**(Aviatrix)** Certified Multicloud Network Associate<br>
-**(Oracle Cloud Infrastructure - OCI)** [Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=345682C8994D6E04971F4C39586E9025D968727D69029A232FE474FF90933F28) _(1Z0-1085-24)_<br>
+**(Aviatrix)** [Multicloud Network Associate](https://www.credly.com/badges/ce547613-0fa0-47f8-bd57-2083568e75b3/public_url)<br>
+**(Oracle Cloud Infrastructure - OCI)** [Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=345682C8994D6E04971F4C39586E9025D968727D69029A232FE474FF90933F28) _(1Z0-1085-24)_<br>
 **(Schneider)** [Data Center Certified Associate Exam Development Path](https://schneider.efrontlearning.com/certificates/serial/f9483c130f2a80c0091b175606f5f2dd) <br>
-**(Cybrary)** Certified Nessus Fundamentals, Manage a Network Infrastructure <br>
-**(Rackspace)** CloudU Rackspace Certified <br>
-**(VMware)** Certified Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
-**(Microsoft)** [Certified IT Professional, Technology Specialist, Solutions Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
+**(Cybrary)** Nessus Fundamentals, Manage a Network Infrastructure <br>
+**(Rackspace)** CloudU Rackspace <br>
+**(VMware)** Associate - Cloud, Data Center Virtualization and Workforce Mobility <br>
+**(Microsoft)** [IT Professional, Technology Specialist, Solutions Associate](https://learn.microsoft.com/en-us/users/ibnunowshad/transcript/dg8wgierpk3mqk5)
