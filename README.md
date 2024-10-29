@@ -7,7 +7,7 @@ _Infrastructure pro turned cloud architect, with proven expertise in Tailscale a
 ## 👩🏼‍💻 Engineering Experience
 
 **Information Technology Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
-- Consulted with low-cost startups on cloud solution selection and go-to-market strategies, focusing on **_x86_** and **_arm64_** architectures.
+- Consulting with low-cost start-ups on cloud solution selection and go-to-market strategies, focusing on **_x86_** and **_arm64_** architectures.
 - Designed and implemented secure remote access solutions using **_Tailscale_** and **_Zitadel_** for identity and single sign-on.
 - Automated deployment and maintenance workflows for static websites built with **_Hugo_** and **_Jekyll_** using **_Cloudflare_**, **_GitHub Actions_**, and **_GitLab CI/CD_**.
 - **_Technologies used:_** _Jira, Confluence, Cloudflare, Gitlab CI/CD, Hugo, Jekyll, GitHub Actions, Git, OpenID Connect, IdP, SSO, Zitadel, Tailscale, Kubernetes, Puppet, Proxmox_.
