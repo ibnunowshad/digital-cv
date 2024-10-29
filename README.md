@@ -1,6 +1,6 @@
 # Ibrahim Nowshad
 
-_Infrastructure pro turned cloud architect, crafting robust, secure solutions on leading platforms. Proven experience in migrations, automation, and security. Passionate learner, global explorer, ready to build cloud kingdoms. Taiwan Employment Gold Card holder based in Dubai 🇦🇪_<br>
+_Infrastructure pro turned cloud architect, with proven expertise in Tailscale and NextDNS for crafting secure, next-gen network solutions. Skilled in cloud migrations, automation, cybersecurity, with focus on Zero Trust security models and DNS-level threat protection. Taiwan Employment Gold Card holder based in Dubai 🇦🇪 and Chennai 🇮🇳_<br>
 
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
