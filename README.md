@@ -6,14 +6,14 @@ _Infrastructure pro turned cloud architect, with proven expertise in Tailscale a
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Freelance - IT Architect** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
+**Information Technology Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
 - Consulted with low-cost startups on cloud solution selection and go-to-market strategies, focusing on **_x86_** and **_arm64_** architectures.
 - Designed and implemented secure remote access solutions using **_Tailscale_** and **_Zitadel_** for identity and single sign-on.
 - Automated deployment and maintenance workflows for static websites built with **_Hugo_** and **_Jekyll_** using **_Cloudflare_**, **_GitHub Actions_**, and **_GitLab CI/CD_**.
 - **_Technologies used:_** _Jira, Confluence, Cloudflare, Gitlab CI/CD, Hugo, Jekyll, GitHub Actions, Git, OpenID Connect, IdP, SSO, Zitadel, Tailscale, Kubernetes, Puppet, Proxmox_.
 <br><br>
 
-**Cloud Infrastructure Architect** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
+**Manager - Cloud Infrastructure** @ [Cult.Sport](https://cultsport.com/) _(Feb 2023 - Aug 2023)_ <br>
 Sports e‐tailer for smart fitness products, sportswear, at‐home workout equipment, and bicycles
 - Reduced downtime by **_35%_** by migrating legacy services to a highly available **_Proxmox_**-based infrastructure with containerized deployments using **_Docker, Portainer_** and **_Ubuntu_**.
 - Developed **_Prometheus_** alerts and **_Grafana_** dashboards to monitor key infrastructure metrics and trigger proactive notifications for potential issues.
@@ -24,7 +24,7 @@ Sports e‐tailer for smart fitness products, sportswear, at‐home workout equi
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
-**Information Technology System Architect** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
+**Technology Manager - Security, Risk and Enterprise Intelligence** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Redesigned the fulfilment warehouse infrastructure prioritizing operational resilience and uptime. Achieved uninterrupted deliveries **_99.9%_** uptime even during major outages by implementing a rearchitected infrastructure with **_Prometheus_** and **_Grafana_** alerts and automated failover.
 - Collaborated with product teams to integrate SRE principles and developed custom monitoring tools. This enabled proactive identification and resolution of performance issues, leading to a **_20%_** better user experience in-house.
@@ -34,7 +34,7 @@ South East Asia’s e‐tailer incubated by [Rocket Internet](https://www.rocket
 - **_Technologies used:_** _Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL, Nessus, Carbon Black, Symantec_.
 <br><br>
 
-**Technical Project Manager** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
+**Technical Project Manager - Technology and Products** @ [Alibaba Cloud](https://alibabacloud.com/) _(Mar 2018 - Jan 2020)_ <br>
 Alicloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
 - Led the construction of a highly available and resilient Datacenter _(**Private, Public and Hybrid Cloud**)_ for Lazada and Alicloud in **_APAC_**, exceeding industry standards for uptime and disaster recovery. Achieved **_99.99%_** uptime SLA.
 - Optimized network deployment speed by **_100%_** _(from 100 to 200 network switches/day)_ through innovative rack design and automation initiatives using **_Device42_** and **_Racktables_**. Reduced resource requirements and minimized deployment disruption while increasing network scalability.
@@ -44,7 +44,7 @@ Alicloud provides reliable and secure cloud computing and data processing capabi
 - **_Technologies used:_** _Jira, Confluence, Racktables, Device42, Git, Lark, Aone, GitLab, Cacti, AWS, Route53, IAM, RDS, EC2, Puppet_.
 <br><br>
 
-**Lead Network Engineer - Site Reliability** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
+**Lead Network Engineer - Cloud** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
 Regional news aggregator in India through a mobile app called [dailyhunt](https://dailyhunt.in)
 - Implemented **_Grafana_** and **_Cacti_** for network traffic monitoring and triggered automated auto-scaling at **_99%_** accuracy. Ensured optimal resource utilization, service availability, and a **_60%_** improvement in user experience metrics.
 - Increased network capacity and reduced maintenance windows. Enhanced network performance, scalability, and a **_30%_** cost saving on network resources.
@@ -55,7 +55,7 @@ Regional news aggregator in India through a mobile app called [dailyhunt](https:
 - **_Technologies used:_** _Jira, Confluence, Git, Akamai, Cloudflare, Citrix, Brocade, HPE 3PAR, Prometheus, Grafana, Openstack, VMware, Ceph_.
 <br><br>
 
-**Lead Network Engineer** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
+**Lead Network Engineer - IT Infrastructure** @ [Myntra](https://myntra.com) _(Apr 2014 - Jul 2016)_ <br>
 Fashion e‐tailer of India, acquired by Flipkart and Walmart
 - Led and mentorship of a high-performing network engineering team, fostering a culture of continuous improvement and **Site Reliability Engineering** _(**SRE**)_ principles. Increased operational efficiency by **_25%_**.
 - Optimized network operations by implementing automated monitoring, incident response procedures, and knowledge-sharing initiatives. Achieved a **_99.99%_** uptime rate.
