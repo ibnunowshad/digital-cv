@@ -7,7 +7,7 @@ plugins:
 - jekyll-analytics
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-4QEDTF8Z06         # Required - replace with your tracking id
+    id: G-JMQSFTQVGE         # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
   #Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
