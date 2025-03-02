@@ -5,7 +5,6 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -28,37 +27,43 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2.3
-      - name: Update Bundler
-        run: gem install bundler:2.5.22
+          ruby-version: '3.2.3'
+          bundler-cache: true
+      
+      - name: Add Jekyll Analytics
+        run: |
+          if [ -f Gemfile ]; then
+            echo "group :jekyll_plugins do" >> Gemfile
+            echo "  gem 'jekyll-analytics'" >> Gemfile
+            echo "end" >> Gemfile
+          else
+            echo "group :jekyll_plugins do" > Gemfile
+            echo "  gem 'jekyll-analytics'" >> Gemfile
+            echo "end" >> Gemfile
+          fi
+      
       - name: Install Dependencies
         run: |
           bundle config path vendor/bundle
           bundle install
+      
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4
+      
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-      - name: Add Jekyll Analytics
-        run: |
-          if [ -f Gemfile ]; then
-            echo "group :jekyll_plugins do" >> Gemfile
-            echo "   gem 'jekyll-analytics'" >> Gemfile
-            echo "end" >> Gemfile
-          else
-            echo "group :jekyll_plugins do" > Gemfile
-            echo "   gem 'jekyll-analytics'" >> Gemfile
-            echo "end" >> Gemfile
-          fi
-          bundle install
+      
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
 
   # Deployment job
   deploy:
