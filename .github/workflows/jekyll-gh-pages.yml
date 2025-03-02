@@ -1,4 +1,4 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Workflow for building and deploying a Jekyll site from README.md to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
@@ -14,8 +14,6 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -32,27 +30,44 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2.3'
-          bundler-cache: true
       
-      - name: Add Jekyll Analytics
+      # Create index file from README if it doesn't exist
+      - name: Create index file if needed
         run: |
-          if [ -f Gemfile ]; then
-            echo "group :jekyll_plugins do" >> Gemfile
-            echo "  gem 'jekyll-analytics'" >> Gemfile
-            echo "end" >> Gemfile
+          if [ ! -f index.md ] && [ -f README.md ]; then
+            echo "---" > index.md
+            echo "layout: default" >> index.md
+            echo "---" >> index.md
+            echo "" >> index.md
+            cat README.md >> index.md
+          fi
+      
+      # Create Gemfile with required dependencies
+      - name: Create or update Gemfile
+        run: |
+          if [ ! -f Gemfile ]; then
+            echo "source 'https://rubygems.org'" > Gemfile
+            echo "gem 'jekyll'" >> Gemfile
+            echo "gem 'jekyll-remote-theme'" >> Gemfile
+            echo "gem 'jekyll-relative-links'" >> Gemfile
+            echo "gem 'jekyll-analytics'" >> Gemfile
           else
-            echo "group :jekyll_plugins do" > Gemfile
-            echo "  gem 'jekyll-analytics'" >> Gemfile
-            echo "end" >> Gemfile
+            # Ensure necessary gems are in the Gemfile
+            if ! grep -q "jekyll-remote-theme" Gemfile; then
+              echo "gem 'jekyll-remote-theme'" >> Gemfile
+            fi
+            if ! grep -q "jekyll-analytics" Gemfile; then
+              echo "gem 'jekyll-analytics'" >> Gemfile
+            fi
           fi
       
       - name: Install Dependencies
         run: |
-          bundle config path vendor/bundle
+          gem install bundler:2.5.22
           bundle install
       
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
       
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
@@ -60,8 +75,16 @@ jobs:
           source: ./
           destination: ./_site
       
+      # Debug step to verify _site directory contents
+      - name: Debug - List files
+        run: |
+          echo "Repository contents:"
+          ls -la
+          echo "_site directory contents:"
+          ls -la ./_site || echo "_site directory not found"
+      
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./_site
 
