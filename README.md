@@ -1,10 +1,36 @@
 # Ibrahim Nowshad
 
-_Seasoned Cloud Architect with extensive experience in designing and implementing scalable cloud infrastructure solutions. Proven expertise in cloud migrations, automation, and implementing high-availability architectures. Strong background in containerization, CI/CD pipelines, and infrastructure as code. Skilled in implementing secure cloud solutions with focus on Zero Trust security models and comprehensive monitoring systems. Taiwan Employment Gold Card holder based in Dubai 🇦🇪 and Chennai 🇮🇳_<br>
-
 [Email](mailto:cv@ibn.slmail.me) . [Website](https://ibnunowshad.com/) . [LinkedIn](https://linkedin.com/in/ibnunowshad/) . [GitHub](https://github.com/ibnunowshad/) . [Telegram](https://t.me/ibnunowshad/) . [Mastodon](https://mastodon.social/@ibnunowshad)
 
-## 👩🏼‍💻 Engineering Experience
+_Passion to apply technology to solve problems, flexibility to thrive in a fast paced collaborative environment, excellent communication skills._
+
+_eCommerce/digital infrastructure leader, led mission-critical distributed Linux-platform server and performance teams to handle exponential growth._
+
+_Experience across multiple industries, including: eCommerce, media, retail, software consultancies. Leading local, regional and global platform and server infrastructure engineering and architecture teams and projects. Executed project-based technical roles across India, Europe and S.E. Asia._
+
+Previously, held Taiwan 🇹🇼 Employment Gold Card holder _(but never lived in Taiwan)_, currently based in Chennai 🇮🇳<br>
+
+## ❗️ Key Points:
+- Distributed Internet/Linux/Unix systems architecture; system performance; reliability, resilience and recovery; security hardening, monitoring and observability.
+- Infrastructure-as-Code system configuration and server management automation, scripting/programming, GitOps/DevSecOps/ChatOps CI/CD deployment.
+- Disaster Recovery failover experience, due to: extreme weather (hurricane); whole-datacentre power/cooling failures; security incidents. Post-mortem improvement.
+- System internals and observability, metrics, monitoring & alerting.
+- TCP/IP protocol suite filtering, analysis and fault diagnosis.
+- Data centre selection, implementation, cloud integration, migration, decommission.
+
+Trusted advisor working across various geographies with inclusive multi-cultural teams. Growing teams from managing several Linux system networks in a small cloud environment, to a large cloud and physical server estate in datacentres across India and SE Asia. Interview, select, lead and develop engineering teams; mentor, set and evaluate goals and KPIs.
+
+## 👨🏻‍💻 Technical Skills
+- **Cloud Platforms:** AWS (VPC, EC2, IAM, S3, Route 53, RDS), GCP, Oracle Cloud
+- **Containerization:** Docker, Kubernetes, Container Orchestration, Helm, Portainer
+- **Infrastructure as Code:** Terraform, Puppet, GitLab CI/CD, GitHub Actions, ArgoCD
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Wazuh
+- **Security:** Zero Trust Architecture, IAM, SSO, OpenID Connect
+- **Networking:** VPC, DNS Management, Load Balancing, CDN
+- **Programming:** Shell Scripting, Python, Infrastructure Automation
+- **IDE:** VS Code, Cursor, Windsurf
+
+## 👨🏻‍💻 Engineering Experience
 
 **Cloud Solutions Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
 - Architected and implemented secure cloud infrastructure solutions focusing on high availability and disaster recovery
@@ -30,7 +56,7 @@ eCommerce for smart fitness products, sportswear, at‑home workout equipment an
 South East Asia’s eCommerce incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Designed and implemented highly available cloud infrastructure achieving  **99.9%** uptime across multiple availability zones 
 - Established **DevSecOps** practices integrating security into CI/CD pipeline and implementing comprehensive monitoring
-- Managed large-scale cloud migrations projects, successfully transitioning 12000+ servers to cloud infrastructure
+- Managed large-scale cloud migrations projects, successfully transitioning 1200+ servers to cloud infrastructure
 - Implemented automated failover and disaster recovery solutions across multiple regions
 - Led the implementation of identity and access management solutions ensuring secure access to cloud resources
 - **_Technologies used:_** _AWS (EC2, VPC, IAM, Route 53), Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL, Nessus, Carbon Black, Symantec_.
