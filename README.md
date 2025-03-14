@@ -54,11 +54,14 @@ eCommerce for smart fitness products, sportswear, at‑home workout equipment an
 
 **Technology Manager - Cloud Security and Infrastructure** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
 South East Asia’s eCommerce incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
-- Designed and implemented highly available cloud infrastructure achieving  **99.9%** uptime across multiple availability zones 
-- Established **DevSecOps** practices integrating security into CI/CD pipeline and implementing comprehensive monitoring
-- Managed large-scale cloud migrations projects, successfully transitioning 1200+ servers to cloud infrastructure
-- Implemented automated failover and disaster recovery solutions across multiple regions
-- Led the implementation of identity and access management solutions ensuring secure access to cloud resources
+- Led cloud infrastructure modernization to support scalability for up to **1 billion customers**.
+- Designed and implemented **on-premise Kubernetes clusters**, improving **load management, performance, and reliability**.
+- Collaborated with business and technical teams to define **downtime metrics, reliability targets, and SLAs**.
+- Modernized data center networking by adopting the **RFC 7938 approach**, reducing network-related incidents by **4x**.
+- Architected a centralized logging and event processing system, handling **6+ million events per minute**.
+- Strengthened security posture by implementing **internal PKI, 802.1X network authentication, and centralized identity management**.
+- Integrated **GitLab CI/CD pipelines** to automate deployments and improve development workflows.
+- Utilized **Jira for Agile project management**, tracking infrastructure improvements, security enhancements, and cloud migrations.
 - **_Technologies used:_** _AWS (EC2, VPC, IAM, Route 53), Jira, Confluence, Git, Bind9, SAML, Nessus, Puppet, SQL, Nessus, Carbon Black, Symantec_.
 <br><br>
 
