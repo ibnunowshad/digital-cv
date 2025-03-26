@@ -52,7 +52,7 @@ eCommerce for smart fitness products, sportswear, at‑home workout equipment an
 - **_Technologies used:_** _Docker, Portainer, Jira, Confluence, Git, Bind9, Wazuh, Jenkins, SAML, Nessus, Puppet, Proxmox, Palo Alto, Cisco_.
 <br><br>
 
-**Technology Manager - Cloud Security and Infrastructure** @ [Lazada](https://lazada.com/) _(Jan 2020 - Feb 2023)_ <br>
+**Technology Manager - Cloud Security and Infrastructure** @ [Lazada](https://lazada.com/) _(Jan 2020 - Jan 2023)_ <br>
 South East Asia’s eCommerce incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
 - Led cloud infrastructure modernization to support scalability for up to **1 billion customers**.
 - Designed and implemented **on-premise Kubernetes clusters**, improving **load management, performance, and reliability**.
@@ -115,6 +115,7 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 **(Cloud Native Cloud Foundation - CNCF)** Kubernetes Administrator _(In-progress)_<br>
 **(Google Cloud Platform - GCP)** Professional Cloud Architect _(In-progress)_<br>
+**(Google Cloud Platform - GCP)** [Cloud Digital Leader](https://www.credly.com/badges/6ba33e6a-c50c-4657-98c0-e53ab484e500/public_url)<br>
 **(Aviatrix)** [Multicloud Network Associate](https://www.credly.com/badges/ce547613-0fa0-47f8-bd57-2083568e75b3/public_url)<br>
 **(Oracle Cloud Infrastructure - OCI)** [Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=345682C8994D6E04971F4C39586E9025D968727D69029A232FE474FF90933F28) _(1Z0-1085-24)_<br>
 **(Schneider)** [Data Center Certified Associate Exam Development Path](https://schneider.efrontlearning.com/certificates/serial/f9483c130f2a80c0091b175606f5f2dd) <br>
