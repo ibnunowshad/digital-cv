@@ -54,7 +54,8 @@ eCommerce for smart fitness products, sportswear, at‑home workout equipment an
 
 **Technology Manager - Cloud Security and Infrastructure** @ [Lazada](https://lazada.com/) _(Jan 2020 - Jan 2023)_ <br>
 South East Asia’s eCommerce incubated by [Rocket Internet](https://www.rocket-internet.com) and acquired by [Alibaba Group](https://www.alibabagroup.com)
-- Led cloud infrastructure modernization to support scalability for up to **1 billion customers**.
+- Led cloud infrastructure modernization to support scalability for up to **1 billion customers**, during **11.11** and **12.12** sale roughly **583k orders** processed entirely in the region within first **one** hour.
+- Revamped network underlay architecture to cater **~18k** orders per day during Covid-19 from **~11k-12k** orders during normal days at the online grocery store Redmart
 - Designed and implemented **on-premise Kubernetes clusters**, improving **load management, performance, and reliability**.
 - Collaborated with business and technical teams to define **downtime metrics, reliability targets, and SLAs**.
 - Modernized data center networking by adopting the **RFC 7938 approach**, reducing network-related incidents by **4x**.
@@ -78,6 +79,7 @@ Alicloud provides reliable and secure cloud computing and data processing capabi
 **Lead Cloud Infrastructure Engineer** @ [Versé](https://www.verse.in/) _(Jun 2016 - Mar 2018)_ <br>
 Regional news aggregator in India through mobile app [dailyhunt](https://dailyhunt.in)
 - Architected and managed private cloud infrastructure using OpenStack and VMware, achieving **99.9%** uptime for critical services
+- Scaled the InfraOps to cater **~100k Requests Per Second _(RPS)_** during viral news from **~3k-24k RPS** normal days with auto-scale solutions in vReliaze, Caching solutions from Akamai.
 - Implemented auto-scaling solutions using Cacti, Prometheus and Grafana monitoring, improving resource utilization by **60%**
 - Designed and deployed CDN integration with Akamai and Cloudflare, reducing internal servers load by **40-50%**
 - Established infrastructure as code practices using Git for configurations management, improving deployment efficiency by 30%
