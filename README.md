@@ -32,7 +32,7 @@ Trusted advisor working across various geographies with inclusive multi-cultural
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Cloud Solutions Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - till date)_ <br>
+**Cloud Solutions Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - Jun 2025)_ <br>
 - Architected and implemented secure cloud infrastructure solutions focusing on high availability and disaster recovery
 - Designed and deployed containerized applications using **Docker** and **Kubernetes** for improved scalability
 - Implemented automated CI/CD pipelines using GitHub Actions and GitLab CI/CD for streamlined deployments
@@ -117,6 +117,7 @@ Course Work: 'Information about my Institution' - Basic HTML and MSSQL website w
 
 **(Cloud Native Cloud Foundation - CNCF)** Kubernetes Administrator _(In-progress)_<br>
 **(Google Cloud Platform - GCP)** Professional Cloud Architect _(In-progress)_<br>
+**(Google Cloud Platform - GCP)** [Gen AI Leader](https://www.credly.com/badges/037bccfb-2314-4c7c-8173-61c92baee7a4/public_url)<br>
 **(Google Cloud Platform - GCP)** [Associate Cloud Engineer](https://www.credly.com/badges/20098dd6-cb35-4ad3-80be-21299d681e3d/public_url)<br>
 **(Google Cloud Platform - GCP)** [Cloud Digital Leader](https://www.credly.com/badges/6ba33e6a-c50c-4657-98c0-e53ab484e500/public_url)<br>
 **(Aviatrix)** [Multicloud Network Associate](https://www.credly.com/badges/ce547613-0fa0-47f8-bd57-2083568e75b3/public_url)<br>
