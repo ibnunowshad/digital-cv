@@ -39,7 +39,7 @@ Technology partner and subsidiary of Arab Bank, Jordan
 - Contributed in architectural redesign phase, developing cloud migration strategy and architectural frameworks AI driven approach
 - Responsible for designing GCP infrastructure solutions aligned with client’s business objectives and regional requirements
 - Prepared technical documentation and implementation roadmaps for secure, scalable cloud architecture
-- **_Technologies used:_** Kubernetes, Jira, Confluence, Apigee, Gitlab CI/CD, GitHub Actions, Git, OpenID Connect
+- **_Technologies used:_** _Kubernetes, Jira, Confluence, Apigee, Gitlab CI/CD, GitHub Actions, Git, OpenID Connect_.
 <br><br>
 
 **Cloud Solutions Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - Jun 2025)_ <br>
