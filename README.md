@@ -25,12 +25,22 @@ Trusted advisor working across various geographies with inclusive multi-cultural
 - **Containerization:** Docker, Kubernetes, Container Orchestration, Helm, Portainer
 - **Infrastructure as Code:** Terraform, Puppet, GitLab CI/CD, GitHub Actions, ArgoCD
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Wazuh
+- **Low Code / No Code:** n8n, Pipedream
 - **Security:** Zero Trust Architecture, IAM, SSO, OpenID Connect
 - **Networking:** VPC, DNS Management, Load Balancing, CDN
 - **Programming:** Shell Scripting, Python, Infrastructure Automation
 - **IDE:** VS Code, Cursor, Windsurf
 
 ## 👨🏻‍💻 Engineering Experience
+
+**Cloud and Security Architect** @ [Acabes International](https://acabesinternational.com/) _(Jul 2025 ‑ Dec 2025)_<br>
+Technology partner and subsidiary of Arab Bank, Jordan
+- Engaged as Cloud and Security Architect to lead cloud transformation initiatives for Arab Bank operations in Jordan, Palestine, Iraq, Qatar, Bahrain, Tunisia, Algeria, Egypt and the UAE
+- Contributed in architectural redesign phase, developing cloud migration strategy and architectural frameworks AI driven approach
+- Responsible for designing GCP infrastructure solutions aligned with client’s business objectives and regional requirements
+- Prepared technical documentation and implementation roadmaps for secure, scalable cloud architecture
+- **_Technologies used:_** Kubernetes, Jira, Confluence, Apigee, Gitlab CI/CD, GitHub Actions, Git, OpenID Connect
+<br><br>
 
 **Cloud Solutions Architect - Freelance** @ [Various Clients and Personal Projects](https://ibnunowshad.com/) _(Aug 2023 - Jun 2025)_ <br>
 - Architected and implemented secure cloud infrastructure solutions focusing on high availability and disaster recovery
