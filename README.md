@@ -8,7 +8,7 @@ _eCommerce/digital infrastructure leader, led mission-critical distributed Linux
 
 _Experience across multiple industries, including: eCommerce, media, retail, software consultancies. Leading local, regional and global platform and server infrastructure engineering and architecture teams and projects. Executed project-based technical roles across India, Europe and S.E. Asia._
 
-Previously, held Taiwan 🇹🇼 Employment Gold Card holder _(but never lived in Taiwan)_, currently based in Chennai 🇮🇳<br>
+Previously, held Taiwan 🇹🇼 Employment Gold Card _(but never lived in Taiwan)_, currently based in Chennai 🇮🇳<br>
 
 ## ❗️ Key Points:
 - Distributed Internet/Linux/Unix systems architecture; system performance; reliability, resilience and recovery; security hardening, monitoring and observability.
