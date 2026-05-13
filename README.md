@@ -8,7 +8,7 @@ _eCommerce/digital infrastructure leader, led mission-critical distributed Linux
 
 _Experience across multiple industries, including: eCommerce, media, retail, software consultancies. Leading local, regional and global platform and server infrastructure engineering and architecture teams and projects. Executed project-based technical roles across India, Europe and S.E. Asia._
 
-Previously, held Taiwan 🇹🇼 Employment Gold Card _(but never lived in Taiwan)_, currently based in Chennai 🇮🇳<br>
+Previously, held Taiwan 🇹🇼 Employment Gold Card _(but never lived in Taiwan)_, lived in SIngapore 🇸🇬, Bangalore and Chennai 🇮🇳, currently based in Riyadh 🇸🇦.<br>
 
 ## ❗️ Key Points:
 - Distributed Internet/Linux/Unix systems architecture; system performance; reliability, resilience and recovery; security hardening, monitoring and observability.
@@ -32,6 +32,12 @@ Trusted advisor working across various geographies with inclusive multi-cultural
 - **IDE:** VS Code, Cursor, Windsurf
 
 ## 👨🏻‍💻 Engineering Experience
+
+**Multicloud Senior Consultant** @ [Ejada](https://ejada.com/) _(Jan 2026 ‑ till date)_<br>
+Key orchestrator in Saudi Arabia's digital transformation, trusted, technology partner to government and blue-chip companies in MENA region
+- Engaging as consultant for Cybersecurity transformation from on-prem to Oracle Cloud to one of the client of Ejada.
+- **_Technologies used:_** _Symantec, Forescout, Splunk, Qualys, Gemini, Github Copilot_.
+<br><br>
 
 **Cloud and Security Architect** @ [Acabes International](https://acabesinternational.com/) _(Jul 2025 ‑ Dec 2025)_<br>
 Technology partner and subsidiary of Arab Bank, Jordan
